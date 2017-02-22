@@ -7,9 +7,9 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/hibobby"
-  weibo: "#"
+  #weibo: "#"
   rss: "/atom.xml"
-  zhihu: "#"
+  zhihu: "https://www.zhihu.com/people/ma-hai-bo-7"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
