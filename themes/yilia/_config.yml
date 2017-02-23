@@ -56,7 +56,11 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
+<<<<<<< HEAD
 avatar: /assets/img/avatar.png
+=======
+avatar:/assets/img/avatar.jpg
+>>>>>>> 9eb20a08c3e67ef4f6641ba9f5b04bd4868e6bfd
 
 #是否开启分享
 share_jia: true
