@@ -11,6 +11,8 @@ tags:
 
 大家比较熟知的框架和插件，比如jQuery、bootstrap在此略过。
 
+<!--more-->
+
 ##### saveSvgAsPng
 github:[saveSvgAsPng](https://github.com/exupero/saveSvgAsPng)
 
